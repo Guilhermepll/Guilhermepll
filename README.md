@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme
 
-<!--
-**Guilhermepll/Guilhermepll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor web em formação • HTML, CSS e JavaScript**
 
-Here are some ideas to get you started:
+Este portfólio reúne meus projetos de desenvolvimento web e exercícios de lógica de programação, com aplicações práticas de interfaces, estruturas de repetição, arrays e funções.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- **HTML:** estruturação de páginas web.
+- **CSS:** estilização de interfaces.
+- **JavaScript:** lógica de programação, condicionais, repetições, arrays e funções.
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [Botn from Seed](https://github.com/Guilhermepll/botn-from-seed) | Projeto de loja virtual com propósito missionário. |
+| [Interface de login](https://github.com/Guilhermepll/projeto-de-login) | Projeto de interface de login para prática de desenvolvimento web. |
+| [Arrays e funções](https://github.com/Guilhermepll/trabalho-com-arrays) | Exercícios com arrays, funções e estruturas condicionais. |
+| [Repetição em JavaScript](https://github.com/Guilhermepll/trabalho-com-repeticao-js) | Prática de estruturas de repetição com while e condicionais. |
+
+## Outros estudos
+
+[Aprendizagem em JavaScript](https://github.com/Guilhermepll/Apredizagemjs)
+
+---
+
+[Explore todos os meus repositórios](https://github.com/Guilhermepll?tab=repositories)

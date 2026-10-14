@@ -14,7 +14,7 @@ Este portfólio reúne meus projetos de desenvolvimento web e exercícios de ló
 
 | Projeto | Descrição |
 | --- | --- |
-| [Botn from Seed](https://github.com/Guilhermepll/botn-from-seed) | Projeto de loja virtual com propósito missionário. |
+| [Born from Seed](https://github.com/Guilhermepll/botn-from-seed) | Projeto de loja virtual com propósito missionário. |
 | [Interface de login](https://github.com/Guilhermepll/projeto-de-login) | Projeto de interface de login para prática de desenvolvimento web. |
 | [Arrays e funções](https://github.com/Guilhermepll/trabalho-com-arrays) | Exercícios com arrays, funções e estruturas condicionais. |
 | [Repetição em JavaScript](https://github.com/Guilhermepll/trabalho-com-repeticao-js) | Prática de estruturas de repetição com while e condicionais. |
